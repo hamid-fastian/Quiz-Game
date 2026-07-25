@@ -93,9 +93,7 @@ Quiz-Game/
 ### Main Menu
 
 <img width="438" height="703" alt="image" src="https://github.com/user-attachments/assets/8316d69b-e477-4171-b6c9-34dea27506a8" />
-### Category Selection
 
-*(Add Screenshot)*
 
 ### Quiz Question
 
